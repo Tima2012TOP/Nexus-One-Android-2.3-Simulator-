@@ -1,0 +1,5 @@
+{
+  "name": "Nexus One Emulator (Android 2.3)",
+  "description": "A fully functional Nexus One emulator running Android 2.3 Gingerbread, featuring CWM Recovery, detailed boot sequence, simulated app market, and integrated Gemini AI.",
+  "requestFramePermissions": []
+}
